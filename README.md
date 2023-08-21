@@ -12,9 +12,7 @@
 
 </p> -->
 
-<p align="center">
-  Hello, my name am Tino Mhishi. I'm excited you decided to drop by and check my channel. I’m looking to collaborate on projects that have a high social impact. Feel free to checkout my repositories and to contact me
-</p>  
+
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=tinomhishi&theme=redical">
