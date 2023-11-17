@@ -19,3 +19,10 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/tinomhishi/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinomhishi&theme=dark" />
+  </a>
+</p>
+
