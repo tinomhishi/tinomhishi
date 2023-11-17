@@ -15,14 +15,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in//tinotenda-mhishi-723965102/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/tinomhishi/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinomhishi&theme=dark" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in//tinotenda-mhishi-723965102/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+    <a href="https://discord.com/users/tino0501">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
 
